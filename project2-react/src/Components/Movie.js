@@ -1,6 +1,6 @@
 
 import { useState } from 'react'
-import Counter from './counter'
+import Counter from './Counter'
 const Movie = ({ element }) => {
     // console.log(element)
     const { name, poster, rating, summary } = element

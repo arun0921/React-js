@@ -1,4 +1,4 @@
-import Movie from "./movie";
+import Movie from "./Movie";
 import { allMovie } from "./MovieList";
 let MovieData=()=>{
     return(
